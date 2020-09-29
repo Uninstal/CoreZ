@@ -1,0 +1,7 @@
+name: CoreZ
+main: org.uninstal.corez.CoreZ
+version: 1.0
+
+commands:
+  corez:
+    description: Command to reload the plugin.
